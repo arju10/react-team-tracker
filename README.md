@@ -11,4 +11,8 @@ Fetures :
 
         * Visit favorite leagues Facebook page, Twitter to see more info
 
+Live Link : https://clever-jepsen-803070.netlify.app/
+
+Github Link : https://github.com/arju10/react-team-tracker
+
 # react-team-tracker
